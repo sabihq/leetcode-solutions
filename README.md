@@ -11,6 +11,7 @@ My LeetCode solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sabihq/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sabihq/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0135-candy](https://github.com/sabihq/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabihq/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Two Pointers
@@ -58,4 +59,8 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sabihq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0135-candy](https://github.com/sabihq/leetcode-solutions/tree/main/0135-candy/) | Hard |
 <!---LeetCode Topics End-->
