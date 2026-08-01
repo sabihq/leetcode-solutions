@@ -40,6 +40,7 @@ My LeetCode solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/sabihq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/sabihq/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sabihq/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0383-ransom-note](https://github.com/sabihq/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/sabihq/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -59,8 +60,13 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sabihq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0383-ransom-note](https://github.com/sabihq/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0135-candy](https://github.com/sabihq/leetcode-solutions/tree/main/0135-candy/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/sabihq/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
