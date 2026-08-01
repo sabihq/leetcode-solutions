@@ -36,6 +36,7 @@ My LeetCode solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sabihq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/sabihq/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sabihq/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/sabihq/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -47,9 +48,14 @@ My LeetCode solutions
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sabihq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sabihq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
