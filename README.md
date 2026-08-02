@@ -39,6 +39,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sabihq/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0006-zigzag-conversion](https://github.com/sabihq/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0125-valid-palindrome](https://github.com/sabihq/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sabihq/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sabihq/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
