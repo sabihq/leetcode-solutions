@@ -10,6 +10,7 @@ My LeetCode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sabihq/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sabihq/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/sabihq/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/sabihq/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sabihq/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/sabihq/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -96,6 +97,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sabihq/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/sabihq/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ My LeetCode solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/sabihq/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/sabihq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
