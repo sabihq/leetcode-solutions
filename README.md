@@ -31,6 +31,7 @@ My LeetCode solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sabihq/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sabihq/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/sabihq/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sabihq/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabihq/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/sabihq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
@@ -84,6 +85,7 @@ My LeetCode solutions
 | [0036-valid-sudoku](https://github.com/sabihq/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/sabihq/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sabihq/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0141-linked-list-cycle](https://github.com/sabihq/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/sabihq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sabihq/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -129,5 +131,10 @@ My LeetCode solutions
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/sabihq/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/sabihq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/sabihq/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
