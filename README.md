@@ -143,9 +143,14 @@ My LeetCode solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sabihq/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sabihq/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sabihq/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sabihq/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
