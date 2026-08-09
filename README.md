@@ -133,6 +133,7 @@ My LeetCode solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/sabihq/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/sabihq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -143,6 +144,7 @@ My LeetCode solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sabihq/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sabihq/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 ## Union-Find
@@ -152,5 +154,6 @@ My LeetCode solutions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sabihq/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
