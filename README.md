@@ -118,6 +118,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sabihq/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/sabihq/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
+| [0155-min-stack](https://github.com/sabihq/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,4 +189,8 @@ My LeetCode solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/sabihq/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
