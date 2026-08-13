@@ -164,6 +164,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0100-same-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -186,6 +187,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0100-same-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sabihq/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -196,6 +198,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0100-same-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
