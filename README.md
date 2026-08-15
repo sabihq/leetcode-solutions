@@ -124,6 +124,7 @@ My LeetCode solutions
 | [0071-simplify-path](https://github.com/sabihq/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sabihq/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/sabihq/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@ My LeetCode solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sabihq/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -209,6 +211,7 @@ My LeetCode solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sabihq/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -216,8 +219,17 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sabihq/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sabihq/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
