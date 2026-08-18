@@ -189,6 +189,7 @@ My LeetCode solutions
 | [0199-binary-tree-right-side-view](https://github.com/sabihq/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sabihq/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sabihq/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -200,6 +201,7 @@ My LeetCode solutions
 | [0129-sum-root-to-leaf-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sabihq/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sabihq/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ My LeetCode solutions
 | [0199-binary-tree-right-side-view](https://github.com/sabihq/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sabihq/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sabihq/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -242,6 +245,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sabihq/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
