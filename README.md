@@ -12,6 +12,7 @@ My LeetCode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sabihq/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sabihq/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/sabihq/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0046-permutations](https://github.com/sabihq/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/sabihq/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sabihq/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
@@ -345,4 +346,8 @@ My LeetCode solutions
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/sabihq/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
