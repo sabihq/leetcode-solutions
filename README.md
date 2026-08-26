@@ -12,6 +12,7 @@ My LeetCode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sabihq/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sabihq/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/sabihq/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0039-combination-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/sabihq/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/sabihq/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sabihq/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -349,5 +350,6 @@ My LeetCode solutions
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/sabihq/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
