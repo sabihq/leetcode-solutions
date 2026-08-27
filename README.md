@@ -21,6 +21,7 @@ My LeetCode solutions
 | [0056-merge-intervals](https://github.com/sabihq/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/sabihq/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sabihq/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/sabihq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sabihq/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -82,6 +83,7 @@ My LeetCode solutions
 | [0049-group-anagrams](https://github.com/sabihq/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/sabihq/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](https://github.com/sabihq/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
+| [0079-word-search](https://github.com/sabihq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/sabihq/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sabihq/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sabihq/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
@@ -144,6 +146,7 @@ My LeetCode solutions
 | [0048-rotate-image](https://github.com/sabihq/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sabihq/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/sabihq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/sabihq/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sabihq/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
@@ -232,6 +235,7 @@ My LeetCode solutions
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/sabihq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -359,4 +363,5 @@ My LeetCode solutions
 | [0022-generate-parentheses](https://github.com/sabihq/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/sabihq/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0079-word-search](https://github.com/sabihq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
