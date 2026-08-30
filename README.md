@@ -200,6 +200,7 @@ My LeetCode solutions
 | [0086-partition-list](https://github.com/sabihq/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sabihq/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sabihq/leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sabihq/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/sabihq/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
@@ -228,6 +229,7 @@ My LeetCode solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sabihq/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sabihq/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -245,6 +247,7 @@ My LeetCode solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sabihq/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/sabihq/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/sabihq/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
@@ -266,6 +269,7 @@ My LeetCode solutions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/sabihq/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/sabihq/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sabihq/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -288,6 +292,7 @@ My LeetCode solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sabihq/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sabihq/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
