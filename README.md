@@ -26,6 +26,7 @@ My LeetCode solutions
 | [0088-merge-sorted-array](https://github.com/sabihq/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sabihq/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sabihq/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/sabihq/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
@@ -224,6 +225,7 @@ My LeetCode solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sabihq/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -283,6 +285,7 @@ My LeetCode solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0112-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sabihq/leetcode-solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -307,6 +310,7 @@ My LeetCode solutions
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sabihq/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Iterator
@@ -359,6 +363,7 @@ My LeetCode solutions
 | [0053-maximum-subarray](https://github.com/sabihq/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
