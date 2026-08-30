@@ -40,6 +40,7 @@ My LeetCode solutions
 | [0228-summary-ranges](https://github.com/sabihq/leetcode-solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0399-evaluate-division](https://github.com/sabihq/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
+| [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabihq/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 ## Two Pointers
@@ -154,6 +155,7 @@ My LeetCode solutions
 | [0130-surrounded-regions](https://github.com/sabihq/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sabihq/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
+| [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -239,6 +241,7 @@ My LeetCode solutions
 | [0226-invert-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sabihq/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -372,6 +375,7 @@ My LeetCode solutions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sabihq/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
