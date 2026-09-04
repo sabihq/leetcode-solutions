@@ -93,6 +93,7 @@ My LeetCode solutions
 | [0125-valid-palindrome](https://github.com/sabihq/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sabihq/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sabihq/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/sabihq/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/sabihq/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/sabihq/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -134,6 +135,7 @@ My LeetCode solutions
 | [0146-lru-cache](https://github.com/sabihq/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0202-happy-number](https://github.com/sabihq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sabihq/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/sabihq/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/sabihq/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
@@ -319,6 +321,7 @@ My LeetCode solutions
 | [0146-lru-cache](https://github.com/sabihq/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/sabihq/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,4 +397,8 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/sabihq/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
