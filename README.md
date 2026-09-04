@@ -327,6 +327,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sabihq/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/sabihq/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/sabihq/leetcode-solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sabihq/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
