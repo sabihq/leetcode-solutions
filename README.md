@@ -21,6 +21,7 @@ My LeetCode solutions
 | [0054-spiral-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/sabihq/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/sabihq/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
+| [0066-plus-one](https://github.com/sabihq/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/sabihq/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/sabihq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -193,6 +194,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/sabihq/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/sabihq/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sabihq/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sabihq/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/sabihq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
