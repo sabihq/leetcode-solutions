@@ -197,6 +197,7 @@ My LeetCode solutions
 | [0066-plus-one](https://github.com/sabihq/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sabihq/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sabihq/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/sabihq/leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/sabihq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
