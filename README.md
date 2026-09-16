@@ -42,6 +42,7 @@ My LeetCode solutions
 | [0198-house-robber](https://github.com/sabihq/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/sabihq/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0212-word-search-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/sabihq/leetcode-solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
@@ -113,6 +114,7 @@ My LeetCode solutions
 | [0151-reverse-words-in-a-string](https://github.com/sabihq/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sabihq/leetcode-solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0212-word-search-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/sabihq/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/sabihq/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/sabihq/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -186,6 +188,7 @@ My LeetCode solutions
 | [0079-word-search](https://github.com/sabihq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/sabihq/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sabihq/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -425,6 +428,7 @@ My LeetCode solutions
 | [0039-combination-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/sabihq/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0079-word-search](https://github.com/sabihq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0212-word-search-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -434,6 +438,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0212-word-search-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
