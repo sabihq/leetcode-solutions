@@ -23,6 +23,7 @@ My LeetCode solutions
 | [0057-insert-interval](https://github.com/sabihq/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/sabihq/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/sabihq/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/sabihq/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/sabihq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -106,6 +107,7 @@ My LeetCode solutions
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sabihq/leetcode-solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/sabihq/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/sabihq/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/sabihq/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/sabihq/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sabihq/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/sabihq/leetcode-solutions/tree/main/0079-word-search/) | Medium |
@@ -215,6 +217,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/sabihq/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/sabihq/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 ## Math
 | Problem Name | Difficulty |
