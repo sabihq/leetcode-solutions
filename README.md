@@ -498,6 +498,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/sabihq/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0577-employee-bonus](https://github.com/sabihq/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/sabihq/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/sabihq/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/sabihq/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
