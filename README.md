@@ -503,6 +503,7 @@ My LeetCode solutions
 | [1068-product-sales-analysis-i](https://github.com/sabihq/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1251-average-selling-price](https://github.com/sabihq/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/sabihq/leetcode-solutions/tree/main/1280-students-and-examinations/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/sabihq/leetcode-solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1683-invalid-tweets](https://github.com/sabihq/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/sabihq/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
