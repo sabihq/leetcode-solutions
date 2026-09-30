@@ -500,6 +500,7 @@ My LeetCode solutions
 | [0197-rising-temperature](https://github.com/sabihq/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/sabihq/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/sabihq/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/sabihq/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/sabihq/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/sabihq/leetcode-solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/sabihq/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
