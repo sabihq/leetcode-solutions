@@ -510,5 +510,6 @@ My LeetCode solutions
 | [1683-invalid-tweets](https://github.com/sabihq/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/sabihq/leetcode-solutions/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/sabihq/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/sabihq/leetcode-solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sabihq/leetcode-solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
