@@ -504,6 +504,7 @@ My LeetCode solutions
 | [0596-classes-with-at-least-5-students](https://github.com/sabihq/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/sabihq/leetcode-solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/sabihq/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1174-immediate-food-delivery-ii](https://github.com/sabihq/leetcode-solutions/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/sabihq/leetcode-solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/sabihq/leetcode-solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/sabihq/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
