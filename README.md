@@ -513,6 +513,7 @@ My LeetCode solutions
 | [1251-average-selling-price](https://github.com/sabihq/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/sabihq/leetcode-solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/sabihq/leetcode-solutions/tree/main/1321-restaurant-growth/) | Medium |
+| [1484-group-sold-products-by-the-date](https://github.com/sabihq/leetcode-solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/sabihq/leetcode-solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1683-invalid-tweets](https://github.com/sabihq/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/sabihq/leetcode-solutions/tree/main/1729-find-followers-count/) | Easy |
