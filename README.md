@@ -497,6 +497,7 @@ My LeetCode solutions
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/sabihq/leetcode-solutions/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/sabihq/leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/sabihq/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sabihq/leetcode-solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
