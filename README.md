@@ -141,6 +141,7 @@ My LeetCode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabihq/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sabihq/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0278-first-bad-version](https://github.com/sabihq/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/sabihq/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Sliding Window
@@ -528,4 +529,8 @@ My LeetCode solutions
 | [1757-recyclable-and-low-fat-products](https://github.com/sabihq/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/sabihq/leetcode-solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sabihq/leetcode-solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/sabihq/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
