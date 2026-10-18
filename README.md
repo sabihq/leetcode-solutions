@@ -142,6 +142,7 @@ My LeetCode solutions
 | [0209-minimum-size-subarray-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sabihq/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0278-first-bad-version](https://github.com/sabihq/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
+| [0367-valid-perfect-square](https://github.com/sabihq/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/sabihq/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Sliding Window
@@ -244,6 +245,7 @@ My LeetCode solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/sabihq/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/sabihq/leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/sabihq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/sabihq/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
