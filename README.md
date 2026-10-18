@@ -143,6 +143,7 @@ My LeetCode solutions
 | [0222-count-complete-tree-nodes](https://github.com/sabihq/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0278-first-bad-version](https://github.com/sabihq/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sabihq/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/sabihq/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/sabihq/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Sliding Window
@@ -246,6 +247,7 @@ My LeetCode solutions
 | [0172-factorial-trailing-zeroes](https://github.com/sabihq/leetcode-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/sabihq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sabihq/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/sabihq/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
