@@ -49,6 +49,7 @@ My LeetCode solutions
 | [0212-word-search-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/sabihq/leetcode-solutions/tree/main/0228-summary-ranges/) | Easy |
+| [0275-h-index-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0322-coin-change](https://github.com/sabihq/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sabihq/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -144,6 +145,7 @@ My LeetCode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabihq/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sabihq/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0275-h-index-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/sabihq/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sabihq/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0436-find-right-interval](https://github.com/sabihq/leetcode-solutions/tree/main/0436-find-right-interval/) | Medium |
