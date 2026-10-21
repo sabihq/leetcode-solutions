@@ -58,6 +58,7 @@ My LeetCode solutions
 | [0436-find-right-interval](https://github.com/sabihq/leetcode-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabihq/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0704-binary-search](https://github.com/sabihq/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sabihq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sabihq/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -151,6 +152,7 @@ My LeetCode solutions
 | [0436-find-right-interval](https://github.com/sabihq/leetcode-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0441-arranging-coins](https://github.com/sabihq/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/sabihq/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sabihq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sabihq/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Sliding Window
@@ -546,4 +548,8 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/sabihq/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/sabihq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
