@@ -64,6 +64,7 @@ My LeetCode solutions
 | [1099-two-sum-less-than-k](https://github.com/sabihq/leetcode-solutions/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sabihq/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sabihq/leetcode-solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sabihq/leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Two Pointers
@@ -165,6 +166,7 @@ My LeetCode solutions
 | [1099-two-sum-less-than-k](https://github.com/sabihq/leetcode-solutions/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sabihq/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sabihq/leetcode-solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sabihq/leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Sliding Window
@@ -232,6 +234,7 @@ My LeetCode solutions
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +300,7 @@ My LeetCode solutions
 | [0130-surrounded-regions](https://github.com/sabihq/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sabihq/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0399-evaluate-division](https://github.com/sabihq/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,6 +351,7 @@ My LeetCode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0399-evaluate-division](https://github.com/sabihq/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +375,7 @@ My LeetCode solutions
 | [0433-minimum-genetic-mutation](https://github.com/sabihq/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -513,6 +519,7 @@ My LeetCode solutions
 | [0023-merge-k-sorted-lists](https://github.com/sabihq/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sabihq/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -564,4 +571,8 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sabihq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
