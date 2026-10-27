@@ -64,6 +64,7 @@ My LeetCode solutions
 | [1099-two-sum-less-than-k](https://github.com/sabihq/leetcode-solutions/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sabihq/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/sabihq/leetcode-solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sabihq/leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -164,6 +165,7 @@ My LeetCode solutions
 | [1099-two-sum-less-than-k](https://github.com/sabihq/leetcode-solutions/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sabihq/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/sabihq/leetcode-solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sabihq/leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
