@@ -167,6 +167,7 @@ My LeetCode solutions
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sabihq/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/sabihq/leetcode-solutions/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/sabihq/leetcode-solutions/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sabihq/leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Sliding Window
@@ -214,6 +215,7 @@ My LeetCode solutions
 | [0011-container-with-most-water](https://github.com/sabihq/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/sabihq/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabihq/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/sabihq/leetcode-solutions/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +275,7 @@ My LeetCode solutions
 | [0202-happy-number](https://github.com/sabihq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sabihq/leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/sabihq/leetcode-solutions/tree/main/0441-arranging-coins/) | Easy |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/sabihq/leetcode-solutions/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
