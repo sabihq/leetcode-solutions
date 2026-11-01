@@ -58,6 +58,7 @@ My LeetCode solutions
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0436-find-right-interval](https://github.com/sabihq/leetcode-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabihq/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0624-maximum-distance-in-arrays](https://github.com/sabihq/leetcode-solutions/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0704-binary-search](https://github.com/sabihq/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sabihq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -217,6 +218,7 @@ My LeetCode solutions
 | [0011-container-with-most-water](https://github.com/sabihq/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/sabihq/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabihq/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0624-maximum-distance-in-arrays](https://github.com/sabihq/leetcode-solutions/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/sabihq/leetcode-solutions/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
