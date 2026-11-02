@@ -142,6 +142,7 @@ My LeetCode solutions
 | [0208-implement-trie-prefix-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0212-word-search-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/sabihq/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0266-palindrome-permutation](https://github.com/sabihq/leetcode-solutions/tree/main/0266-palindrome-permutation/) | Easy |
 | [0290-word-pattern](https://github.com/sabihq/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/sabihq/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/sabihq/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -209,6 +210,7 @@ My LeetCode solutions
 | [0208-implement-trie-prefix-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/sabihq/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0266-palindrome-permutation](https://github.com/sabihq/leetcode-solutions/tree/main/0266-palindrome-permutation/) | Easy |
 | [0290-word-pattern](https://github.com/sabihq/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/sabihq/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/sabihq/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
@@ -423,6 +425,7 @@ My LeetCode solutions
 | [0136-single-number](https://github.com/sabihq/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sabihq/leetcode-solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sabihq/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0266-palindrome-permutation](https://github.com/sabihq/leetcode-solutions/tree/main/0266-palindrome-permutation/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
