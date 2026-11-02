@@ -60,6 +60,7 @@ My LeetCode solutions
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabihq/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/sabihq/leetcode-solutions/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0704-binary-search](https://github.com/sabihq/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
+| [0760-find-anagram-mappings](https://github.com/sabihq/leetcode-solutions/tree/main/0760-find-anagram-mappings/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sabihq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sabihq/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -211,6 +212,7 @@ My LeetCode solutions
 | [0290-word-pattern](https://github.com/sabihq/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/sabihq/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/sabihq/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0760-find-anagram-mappings](https://github.com/sabihq/leetcode-solutions/tree/main/0760-find-anagram-mappings/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/sabihq/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
