@@ -58,6 +58,7 @@ My LeetCode solutions
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0436-find-right-interval](https://github.com/sabihq/leetcode-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabihq/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0531-lonely-pixel-i](https://github.com/sabihq/leetcode-solutions/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/sabihq/leetcode-solutions/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0704-binary-search](https://github.com/sabihq/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0760-find-anagram-mappings](https://github.com/sabihq/leetcode-solutions/tree/main/0760-find-anagram-mappings/) | Easy |
@@ -214,6 +215,7 @@ My LeetCode solutions
 | [0290-word-pattern](https://github.com/sabihq/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/sabihq/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/sabihq/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0531-lonely-pixel-i](https://github.com/sabihq/leetcode-solutions/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0760-find-anagram-mappings](https://github.com/sabihq/leetcode-solutions/tree/main/0760-find-anagram-mappings/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/sabihq/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Greedy
@@ -242,6 +244,7 @@ My LeetCode solutions
 | [0212-word-search-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
+| [0531-lonely-pixel-i](https://github.com/sabihq/leetcode-solutions/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
