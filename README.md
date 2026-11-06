@@ -52,6 +52,7 @@ My LeetCode solutions
 | [0219-contains-duplicate-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/sabihq/leetcode-solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0252-meeting-rooms](https://github.com/sabihq/leetcode-solutions/tree/main/0252-meeting-rooms/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0275-h-index-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0322-coin-change](https://github.com/sabihq/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
@@ -92,6 +93,7 @@ My LeetCode solutions
 | [0151-reverse-words-in-a-string](https://github.com/sabihq/leetcode-solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sabihq/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/sabihq/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0392-is-subsequence](https://github.com/sabihq/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [1099-two-sum-less-than-k](https://github.com/sabihq/leetcode-solutions/tree/main/1099-two-sum-less-than-k/) | Easy |
@@ -105,6 +107,7 @@ My LeetCode solutions
 | [0088-merge-sorted-array](https://github.com/sabihq/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/sabihq/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0252-meeting-rooms](https://github.com/sabihq/leetcode-solutions/tree/main/0252-meeting-rooms/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0436-find-right-interval](https://github.com/sabihq/leetcode-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabihq/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -193,6 +196,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sabihq/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +233,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sabihq/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0135-candy](https://github.com/sabihq/leetcode-solutions/tree/main/0135-candy/) | Hard |
+| [0253-meeting-rooms-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabihq/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/sabihq/leetcode-solutions/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/sabihq/leetcode-solutions/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
@@ -539,6 +544,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sabihq/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0253-meeting-rooms-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sabihq/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
