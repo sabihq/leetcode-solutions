@@ -71,6 +71,7 @@ My LeetCode solutions
 | [0918-maximum-sum-circular-subarray](https://github.com/sabihq/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1099-two-sum-less-than-k](https://github.com/sabihq/leetcode-solutions/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1133-largest-unique-number](https://github.com/sabihq/leetcode-solutions/tree/main/1133-largest-unique-number/) | Easy |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/sabihq/leetcode-solutions/tree/main/1198-find-smallest-common-element-in-all-rows/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sabihq/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -179,6 +180,7 @@ My LeetCode solutions
 | [0852-peak-index-in-a-mountain-array](https://github.com/sabihq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sabihq/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1099-two-sum-less-than-k](https://github.com/sabihq/leetcode-solutions/tree/main/1099-two-sum-less-than-k/) | Easy |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/sabihq/leetcode-solutions/tree/main/1198-find-smallest-common-element-in-all-rows/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sabihq/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -230,6 +232,7 @@ My LeetCode solutions
 | [0760-find-anagram-mappings](https://github.com/sabihq/leetcode-solutions/tree/main/0760-find-anagram-mappings/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/sabihq/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1133-largest-unique-number](https://github.com/sabihq/leetcode-solutions/tree/main/1133-largest-unique-number/) | Easy |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/sabihq/leetcode-solutions/tree/main/1198-find-smallest-common-element-in-all-rows/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,6 +246,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/sabihq/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/sabihq/leetcode-solutions/tree/main/1198-find-smallest-common-element-in-all-rows/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +264,7 @@ My LeetCode solutions
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0531-lonely-pixel-i](https://github.com/sabihq/leetcode-solutions/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/sabihq/leetcode-solutions/tree/main/1198-find-smallest-common-element-in-all-rows/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Stack
