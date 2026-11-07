@@ -55,6 +55,7 @@ My LeetCode solutions
 | [0253-meeting-rooms-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0275-h-index-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
+| [0311-sparse-matrix-multiplication](https://github.com/sabihq/leetcode-solutions/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0322-coin-change](https://github.com/sabihq/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sabihq/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0399-evaluate-division](https://github.com/sabihq/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
@@ -222,6 +223,7 @@ My LeetCode solutions
 | [0242-valid-anagram](https://github.com/sabihq/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0266-palindrome-permutation](https://github.com/sabihq/leetcode-solutions/tree/main/0266-palindrome-permutation/) | Easy |
 | [0290-word-pattern](https://github.com/sabihq/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
+| [0311-sparse-matrix-multiplication](https://github.com/sabihq/leetcode-solutions/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0383-ransom-note](https://github.com/sabihq/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/sabihq/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0531-lonely-pixel-i](https://github.com/sabihq/leetcode-solutions/tree/main/0531-lonely-pixel-i/) | Medium |
@@ -254,6 +256,7 @@ My LeetCode solutions
 | [0200-number-of-islands](https://github.com/sabihq/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
+| [0311-sparse-matrix-multiplication](https://github.com/sabihq/leetcode-solutions/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0531-lonely-pixel-i](https://github.com/sabihq/leetcode-solutions/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -603,4 +606,8 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Linear Algebra
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0311-sparse-matrix-multiplication](https://github.com/sabihq/leetcode-solutions/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 <!---LeetCode Topics End-->
