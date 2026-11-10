@@ -72,6 +72,7 @@ My LeetCode solutions
 | [1099-two-sum-less-than-k](https://github.com/sabihq/leetcode-solutions/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1133-largest-unique-number](https://github.com/sabihq/leetcode-solutions/tree/main/1133-largest-unique-number/) | Easy |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/sabihq/leetcode-solutions/tree/main/1198-find-smallest-common-element-in-all-rows/) | Medium |
+| [1272-remove-interval](https://github.com/sabihq/leetcode-solutions/tree/main/1272-remove-interval/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sabihq/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sabihq/leetcode-solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
