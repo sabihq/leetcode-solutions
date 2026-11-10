@@ -57,6 +57,7 @@ My LeetCode solutions
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0311-sparse-matrix-multiplication](https://github.com/sabihq/leetcode-solutions/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0322-coin-change](https://github.com/sabihq/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0346-moving-average-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0346-moving-average-from-data-stream/) | Easy |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sabihq/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0399-evaluate-division](https://github.com/sabihq/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
@@ -441,6 +442,7 @@ My LeetCode solutions
 | [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0346-moving-average-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0346-moving-average-from-data-stream/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/sabihq/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -544,6 +546,7 @@ My LeetCode solutions
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0346-moving-average-from-data-stream/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/sabihq/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -573,6 +576,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0346-moving-average-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0346-moving-average-from-data-stream/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
