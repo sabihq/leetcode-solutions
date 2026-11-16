@@ -53,6 +53,7 @@ My LeetCode solutions
 | [0228-summary-ranges](https://github.com/sabihq/leetcode-solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0252-meeting-rooms](https://github.com/sabihq/leetcode-solutions/tree/main/0252-meeting-rooms/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0275-h-index-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0311-sparse-matrix-multiplication](https://github.com/sabihq/leetcode-solutions/tree/main/0311-sparse-matrix-multiplication/) | Medium |
@@ -278,6 +279,7 @@ My LeetCode solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/sabihq/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/sabihq/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +346,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sabihq/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sabihq/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +368,7 @@ My LeetCode solutions
 | [0226-invert-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sabihq/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
@@ -435,6 +439,7 @@ My LeetCode solutions
 | [0226-invert-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sabihq/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -460,6 +465,7 @@ My LeetCode solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sabihq/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -622,4 +628,8 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0311-sparse-matrix-multiplication](https://github.com/sabihq/leetcode-solutions/tree/main/0311-sparse-matrix-multiplication/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
