@@ -237,6 +237,7 @@ My LeetCode solutions
 | [1133-largest-unique-number](https://github.com/sabihq/leetcode-solutions/tree/main/1133-largest-unique-number/) | Easy |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/sabihq/leetcode-solutions/tree/main/1198-find-smallest-common-element-in-all-rows/) | Medium |
 | [1490-clone-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1490-clone-n-ary-tree/) | Medium |
+| [1506-find-root-of-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,6 +374,7 @@ My LeetCode solutions
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1490-clone-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1490-clone-n-ary-tree/) | Medium |
+| [1506-find-root-of-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -396,6 +398,7 @@ My LeetCode solutions
 | [0399-evaluate-division](https://github.com/sabihq/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1490-clone-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1490-clone-n-ary-tree/) | Medium |
+| [1506-find-root-of-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -463,6 +466,7 @@ My LeetCode solutions
 | [0201-bitwise-and-of-numbers-range](https://github.com/sabihq/leetcode-solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/sabihq/leetcode-solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0266-palindrome-permutation](https://github.com/sabihq/leetcode-solutions/tree/main/0266-palindrome-permutation/) | Easy |
+| [1506-find-root-of-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
