@@ -236,6 +236,7 @@ My LeetCode solutions
 | [0981-time-based-key-value-store](https://github.com/sabihq/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1133-largest-unique-number](https://github.com/sabihq/leetcode-solutions/tree/main/1133-largest-unique-number/) | Easy |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/sabihq/leetcode-solutions/tree/main/1198-find-smallest-common-element-in-all-rows/) | Medium |
+| [1490-clone-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1490-clone-n-ary-tree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,6 +372,7 @@ My LeetCode solutions
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1490-clone-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1490-clone-n-ary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +395,7 @@ My LeetCode solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0399-evaluate-division](https://github.com/sabihq/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1490-clone-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1490-clone-n-ary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -417,6 +420,7 @@ My LeetCode solutions
 | [0433-minimum-genetic-mutation](https://github.com/sabihq/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
+| [1490-clone-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1490-clone-n-ary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
