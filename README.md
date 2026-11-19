@@ -375,6 +375,7 @@ My LeetCode solutions
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1490-clone-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1490-clone-n-ary-tree/) | Medium |
 | [1506-find-root-of-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
+| [1522-diameter-of-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1522-diameter-of-n-ary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,6 +400,7 @@ My LeetCode solutions
 | [0637-average-of-levels-in-binary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1490-clone-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1490-clone-n-ary-tree/) | Medium |
 | [1506-find-root-of-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1506-find-root-of-n-ary-tree/) | Medium |
+| [1522-diameter-of-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1522-diameter-of-n-ary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -640,4 +642,8 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0255-verify-preorder-sequence-in-binary-search-tree/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1522-diameter-of-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1522-diameter-of-n-ary-tree/) | Medium |
 <!---LeetCode Topics End-->
