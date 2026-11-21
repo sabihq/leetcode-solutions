@@ -487,6 +487,7 @@ My LeetCode solutions
 | [0207-course-schedule](https://github.com/sabihq/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/sabihq/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/sabihq/leetcode-solutions/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -512,6 +513,7 @@ My LeetCode solutions
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sabihq/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/sabihq/leetcode-solutions/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -646,4 +648,12 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1522-diameter-of-n-ary-tree](https://github.com/sabihq/leetcode-solutions/tree/main/1522-diameter-of-n-ary-tree/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/sabihq/leetcode-solutions/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/sabihq/leetcode-solutions/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 <!---LeetCode Topics End-->
