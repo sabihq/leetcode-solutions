@@ -488,6 +488,7 @@ My LeetCode solutions
 | [0210-course-schedule-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0399-evaluate-division](https://github.com/sabihq/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/sabihq/leetcode-solutions/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+| [1136-parallel-courses](https://github.com/sabihq/leetcode-solutions/tree/main/1136-parallel-courses/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -514,10 +515,12 @@ My LeetCode solutions
 | [0207-course-schedule](https://github.com/sabihq/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/sabihq/leetcode-solutions/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+| [1136-parallel-courses](https://github.com/sabihq/leetcode-solutions/tree/main/1136-parallel-courses/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sabihq/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+| [1136-parallel-courses](https://github.com/sabihq/leetcode-solutions/tree/main/1136-parallel-courses/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
