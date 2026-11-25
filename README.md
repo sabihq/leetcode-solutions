@@ -71,6 +71,7 @@ My LeetCode solutions
 | [0852-peak-index-in-a-mountain-array](https://github.com/sabihq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sabihq/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1057-campus-bikes](https://github.com/sabihq/leetcode-solutions/tree/main/1057-campus-bikes/) | Medium |
 | [1099-two-sum-less-than-k](https://github.com/sabihq/leetcode-solutions/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1133-largest-unique-number](https://github.com/sabihq/leetcode-solutions/tree/main/1133-largest-unique-number/) | Easy |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/sabihq/leetcode-solutions/tree/main/1198-find-smallest-common-element-in-all-rows/) | Medium |
@@ -116,6 +117,7 @@ My LeetCode solutions
 | [0295-find-median-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0436-find-right-interval](https://github.com/sabihq/leetcode-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabihq/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [1057-campus-bikes](https://github.com/sabihq/leetcode-solutions/tree/main/1057-campus-bikes/) | Medium |
 | [1099-two-sum-less-than-k](https://github.com/sabihq/leetcode-solutions/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1133-largest-unique-number](https://github.com/sabihq/leetcode-solutions/tree/main/1133-largest-unique-number/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sabihq/leetcode-solutions/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -582,6 +584,7 @@ My LeetCode solutions
 | [0253-meeting-rooms-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sabihq/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [1057-campus-bikes](https://github.com/sabihq/leetcode-solutions/tree/main/1057-campus-bikes/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sabihq/leetcode-solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
