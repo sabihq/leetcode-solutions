@@ -72,6 +72,7 @@ My LeetCode solutions
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/sabihq/leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1057-campus-bikes](https://github.com/sabihq/leetcode-solutions/tree/main/1057-campus-bikes/) | Medium |
+| [1060-missing-element-in-sorted-array](https://github.com/sabihq/leetcode-solutions/tree/main/1060-missing-element-in-sorted-array/) | Medium |
 | [1099-two-sum-less-than-k](https://github.com/sabihq/leetcode-solutions/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1133-largest-unique-number](https://github.com/sabihq/leetcode-solutions/tree/main/1133-largest-unique-number/) | Easy |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/sabihq/leetcode-solutions/tree/main/1198-find-smallest-common-element-in-all-rows/) | Medium |
@@ -184,6 +185,7 @@ My LeetCode solutions
 | [0704-binary-search](https://github.com/sabihq/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sabihq/leetcode-solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sabihq/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1060-missing-element-in-sorted-array](https://github.com/sabihq/leetcode-solutions/tree/main/1060-missing-element-in-sorted-array/) | Medium |
 | [1099-two-sum-less-than-k](https://github.com/sabihq/leetcode-solutions/tree/main/1099-two-sum-less-than-k/) | Easy |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/sabihq/leetcode-solutions/tree/main/1198-find-smallest-common-element-in-all-rows/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sabihq/leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
