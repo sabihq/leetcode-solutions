@@ -59,6 +59,7 @@ My LeetCode solutions
 | [0311-sparse-matrix-multiplication](https://github.com/sabihq/leetcode-solutions/tree/main/0311-sparse-matrix-multiplication/) | Medium |
 | [0322-coin-change](https://github.com/sabihq/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0346-moving-average-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0346-moving-average-from-data-stream/) | Easy |
+| [0348-design-tic-tac-toe](https://github.com/sabihq/leetcode-solutions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sabihq/leetcode-solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0399-evaluate-division](https://github.com/sabihq/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
@@ -233,6 +234,7 @@ My LeetCode solutions
 | [0266-palindrome-permutation](https://github.com/sabihq/leetcode-solutions/tree/main/0266-palindrome-permutation/) | Easy |
 | [0290-word-pattern](https://github.com/sabihq/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0311-sparse-matrix-multiplication](https://github.com/sabihq/leetcode-solutions/tree/main/0311-sparse-matrix-multiplication/) | Medium |
+| [0348-design-tic-tac-toe](https://github.com/sabihq/leetcode-solutions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0383-ransom-note](https://github.com/sabihq/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/sabihq/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
 | [0531-lonely-pixel-i](https://github.com/sabihq/leetcode-solutions/tree/main/0531-lonely-pixel-i/) | Medium |
@@ -270,6 +272,7 @@ My LeetCode solutions
 | [0212-word-search-ii](https://github.com/sabihq/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
 | [0311-sparse-matrix-multiplication](https://github.com/sabihq/leetcode-solutions/tree/main/0311-sparse-matrix-multiplication/) | Medium |
+| [0348-design-tic-tac-toe](https://github.com/sabihq/leetcode-solutions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0427-construct-quad-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0427-construct-quad-tree/) | Medium |
 | [0531-lonely-pixel-i](https://github.com/sabihq/leetcode-solutions/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/sabihq/leetcode-solutions/tree/main/0909-snakes-and-ladders/) | Medium |
@@ -303,6 +306,7 @@ My LeetCode solutions
 | [0067-add-binary](https://github.com/sabihq/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/sabihq/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0289-game-of-life](https://github.com/sabihq/leetcode-solutions/tree/main/0289-game-of-life/) | Medium |
+| [0348-design-tic-tac-toe](https://github.com/sabihq/leetcode-solutions/tree/main/0348-design-tic-tac-toe/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,6 +467,7 @@ My LeetCode solutions
 | [0208-implement-trie-prefix-tree](https://github.com/sabihq/leetcode-solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0346-moving-average-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0346-moving-average-from-data-stream/) | Easy |
+| [0348-design-tic-tac-toe](https://github.com/sabihq/leetcode-solutions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sabihq/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
