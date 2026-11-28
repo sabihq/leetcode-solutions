@@ -67,6 +67,7 @@ My LeetCode solutions
 | [0436-find-right-interval](https://github.com/sabihq/leetcode-solutions/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabihq/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0531-lonely-pixel-i](https://github.com/sabihq/leetcode-solutions/tree/main/0531-lonely-pixel-i/) | Medium |
+| [0604-design-compressed-string-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0604-design-compressed-string-iterator/) | Easy |
 | [0624-maximum-distance-in-arrays](https://github.com/sabihq/leetcode-solutions/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0704-binary-search](https://github.com/sabihq/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0760-find-anagram-mappings](https://github.com/sabihq/leetcode-solutions/tree/main/0760-find-anagram-mappings/) | Easy |
@@ -167,6 +168,7 @@ My LeetCode solutions
 | [0392-is-subsequence](https://github.com/sabihq/leetcode-solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0399-evaluate-division](https://github.com/sabihq/leetcode-solutions/tree/main/0399-evaluate-division/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/sabihq/leetcode-solutions/tree/main/0433-minimum-genetic-mutation/) | Medium |
+| [0604-design-compressed-string-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0604-design-compressed-string-iterator/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/sabihq/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -472,6 +474,7 @@ My LeetCode solutions
 | [0346-moving-average-from-data-stream](https://github.com/sabihq/leetcode-solutions/tree/main/0346-moving-average-from-data-stream/) | Easy |
 | [0348-design-tic-tac-toe](https://github.com/sabihq/leetcode-solutions/tree/main/0348-design-tic-tac-toe/) | Medium |
 | [0353-design-snake-game](https://github.com/sabihq/leetcode-solutions/tree/main/0353-design-snake-game/) | Medium |
+| [0604-design-compressed-string-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0604-design-compressed-string-iterator/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/sabihq/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -493,6 +496,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0604-design-compressed-string-iterator](https://github.com/sabihq/leetcode-solutions/tree/main/0604-design-compressed-string-iterator/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
